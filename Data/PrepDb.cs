@@ -7,7 +7,7 @@ namespace PlatformService.Data
         public static void PrepPopulation(IApplicationBuilder app){
             using(var serviceScope = app.ApplicationServices.CreateScope())
             {
-                SeedData(serviceScope.ServiceProvider.GetService<AppDbContext>());
+                SeedData(serviceScope.ServiceProvider.GetService<AppDbContext>()!);
             }
         }
 
