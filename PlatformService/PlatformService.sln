@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlatformService", "PlatformService.csproj", "{7F3B3C7C-3A76-4C22-A826-22CD66C822FE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandsService", "..\CommandsService\CommandsService.csproj", "{09F6AAFD-AA98-4CE1-A040-DDB556ADAB9E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{7F3B3C7C-3A76-4C22-A826-22CD66C822FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7F3B3C7C-3A76-4C22-A826-22CD66C822FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7F3B3C7C-3A76-4C22-A826-22CD66C822FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09F6AAFD-AA98-4CE1-A040-DDB556ADAB9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09F6AAFD-AA98-4CE1-A040-DDB556ADAB9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09F6AAFD-AA98-4CE1-A040-DDB556ADAB9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09F6AAFD-AA98-4CE1-A040-DDB556ADAB9E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
