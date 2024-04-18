@@ -1,0 +1,17 @@
+C:\Users\Аскар\Desktop\code\dotnetlearn\Microservices\PlatformService\out\CommandsService.exe
+C:\Users\Аскар\Desktop\code\dotnetlearn\Microservices\PlatformService\out\appsettings.Development.json
+C:\Users\Аскар\Desktop\code\dotnetlearn\Microservices\PlatformService\out\appsettings.json
+C:\Users\Аскар\Desktop\code\dotnetlearn\Microservices\PlatformService\out\CommandsService.dll
+C:\Users\Аскар\Desktop\code\dotnetlearn\Microservices\PlatformService\out\CommandsService.runtimeconfig.json
+C:\Users\Аскар\Desktop\code\dotnetlearn\Microservices\PlatformService\out\CommandsService.pdb
+C:\Users\Аскар\Desktop\code\dotnetlearn\Microservices\PlatformService\out\AutoMapper.dll
+C:\Users\Аскар\Desktop\code\dotnetlearn\Microservices\PlatformService\out\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Аскар\Desktop\code\dotnetlearn\Microservices\PlatformService\out\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Аскар\Desktop\code\dotnetlearn\Microservices\PlatformService\out\Microsoft.EntityFrameworkCore.dll
+C:\Users\Аскар\Desktop\code\dotnetlearn\Microservices\PlatformService\out\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Аскар\Desktop\code\dotnetlearn\Microservices\PlatformService\out\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Аскар\Desktop\code\dotnetlearn\Microservices\PlatformService\out\Microsoft.OpenApi.dll
+C:\Users\Аскар\Desktop\code\dotnetlearn\Microservices\PlatformService\out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Аскар\Desktop\code\dotnetlearn\Microservices\PlatformService\out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Аскар\Desktop\code\dotnetlearn\Microservices\PlatformService\out\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Аскар\Desktop\code\dotnetlearn\Microservices\PlatformService\out\CommandsService.deps.json

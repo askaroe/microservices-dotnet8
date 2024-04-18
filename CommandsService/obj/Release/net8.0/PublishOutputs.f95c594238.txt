@@ -1,0 +1,17 @@
+C:\Users\Аскар\Desktop\code\dotnetlearn\Microservices\CommandsService\bin\Release\net8.0\publish\CommandsService.exe
+C:\Users\Аскар\Desktop\code\dotnetlearn\Microservices\CommandsService\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\Аскар\Desktop\code\dotnetlearn\Microservices\CommandsService\bin\Release\net8.0\publish\appsettings.json
+C:\Users\Аскар\Desktop\code\dotnetlearn\Microservices\CommandsService\bin\Release\net8.0\publish\CommandsService.dll
+C:\Users\Аскар\Desktop\code\dotnetlearn\Microservices\CommandsService\bin\Release\net8.0\publish\CommandsService.runtimeconfig.json
+C:\Users\Аскар\Desktop\code\dotnetlearn\Microservices\CommandsService\bin\Release\net8.0\publish\CommandsService.pdb
+C:\Users\Аскар\Desktop\code\dotnetlearn\Microservices\CommandsService\bin\Release\net8.0\publish\AutoMapper.dll
+C:\Users\Аскар\Desktop\code\dotnetlearn\Microservices\CommandsService\bin\Release\net8.0\publish\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Аскар\Desktop\code\dotnetlearn\Microservices\CommandsService\bin\Release\net8.0\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Аскар\Desktop\code\dotnetlearn\Microservices\CommandsService\bin\Release\net8.0\publish\Microsoft.EntityFrameworkCore.dll
+C:\Users\Аскар\Desktop\code\dotnetlearn\Microservices\CommandsService\bin\Release\net8.0\publish\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Аскар\Desktop\code\dotnetlearn\Microservices\CommandsService\bin\Release\net8.0\publish\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Аскар\Desktop\code\dotnetlearn\Microservices\CommandsService\bin\Release\net8.0\publish\Microsoft.OpenApi.dll
+C:\Users\Аскар\Desktop\code\dotnetlearn\Microservices\CommandsService\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Аскар\Desktop\code\dotnetlearn\Microservices\CommandsService\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Аскар\Desktop\code\dotnetlearn\Microservices\CommandsService\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Аскар\Desktop\code\dotnetlearn\Microservices\CommandsService\bin\Release\net8.0\publish\CommandsService.deps.json
